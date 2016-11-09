@@ -1,0 +1,44 @@
+DIGITAL_INPUT Init, ClearAll, Ack;
+DIGITAL_OUTPUT Relay1, Relay2;
+
+#INCLUDEPATH "..\bin"
+#USER_SIMPLSHARP_LIBRARY "BuiltInScheduler" 
+
+INTEGER x;
+BuiltInSchedulerExample myScheduler;               
+ 
+CALLBACK Function SetRelay(INTEGER rlyNo)
+{
+	IF (rlyNo = 1)
+	{
+		Relay1 = 1;
+		delay(50);
+		Relay1 = 0;
+	}
+	IF (rlyNo = 2)
+	{
+		Relay2 = 1;
+		delay(50);
+		Relay2 = 0;
+	}
+}
+
+PUSH Init
+{
+	myScheduler.InitializeStuff();
+}
+
+PUSH ClearAll
+{
+	myScheduler.Clear();
+}
+
+PUSH Ack
+{
+	myScheduler.Ack();
+}
+
+function Main()
+{
+	RegisterDelegate(myScheduler, SetRelayDelegate, SetRelay);
+}

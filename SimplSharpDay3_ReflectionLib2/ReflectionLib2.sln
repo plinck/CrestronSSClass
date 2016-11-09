@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReflectionLib2", "ReflectionLib2\ReflectionLib2.csproj", "{BFCCF15B-60BC-48D3-90A6-2C77D8D38931}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BFCCF15B-60BC-48D3-90A6-2C77D8D38931}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BFCCF15B-60BC-48D3-90A6-2C77D8D38931}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BFCCF15B-60BC-48D3-90A6-2C77D8D38931}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BFCCF15B-60BC-48D3-90A6-2C77D8D38931}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

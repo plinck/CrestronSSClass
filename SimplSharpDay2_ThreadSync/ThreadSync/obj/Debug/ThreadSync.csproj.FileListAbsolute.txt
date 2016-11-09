@@ -1,0 +1,36 @@
+C:\Crestron\Source Control\3DayCertification Class\Temp\ThreadSync\ThreadSync\bin\ThreadSync.dll
+C:\Crestron\Source Control\3DayCertification Class\Temp\ThreadSync\ThreadSync\bin\ThreadSync.pdb
+C:\Crestron\Source Control\3DayCertification Class\Temp\ThreadSync\ThreadSync\bin\Crestron.SimplSharpPro.DeviceSupport.dll
+C:\Crestron\Source Control\3DayCertification Class\Temp\ThreadSync\ThreadSync\bin\SimplSharpCustomAttributesInterface.dll
+C:\Crestron\Source Control\3DayCertification Class\Temp\ThreadSync\ThreadSync\bin\SimplSharpHelperInterface.dll
+C:\Crestron\Source Control\3DayCertification Class\Temp\ThreadSync\ThreadSync\bin\SimplSharpPro.exe
+C:\Crestron\Source Control\3DayCertification Class\Temp\ThreadSync\ThreadSync\obj\Debug\ResolveAssemblyReference.cache
+C:\Crestron\Source Control\3DayCertification Class\Temp\ThreadSync\ThreadSync\obj\Debug\ThreadSync.dll
+C:\Crestron\Source Control\3DayCertification Class\Temp\ThreadSync\ThreadSync\obj\Debug\ThreadSync.pdb
+C:\Crestron\Source Control\3DayCertification Class\Day 2\ThreadSync\ThreadSync\bin\ThreadSync.dll
+C:\Crestron\Source Control\3DayCertification Class\Day 2\ThreadSync\ThreadSync\bin\ThreadSync.pdb
+C:\Crestron\Source Control\3DayCertification Class\Day 2\ThreadSync\ThreadSync\bin\Crestron.SimplSharpPro.DeviceSupport.dll
+C:\Crestron\Source Control\3DayCertification Class\Day 2\ThreadSync\ThreadSync\bin\SimplSharpCustomAttributesInterface.dll
+C:\Crestron\Source Control\3DayCertification Class\Day 2\ThreadSync\ThreadSync\bin\SimplSharpHelperInterface.dll
+C:\Crestron\Source Control\3DayCertification Class\Day 2\ThreadSync\ThreadSync\bin\SimplSharpPro.exe
+C:\Crestron\Source Control\3DayCertification Class\Day 2\ThreadSync\ThreadSync\obj\Debug\ResolveAssemblyReference.cache
+C:\Crestron\Source Control\3DayCertification Class\Day 2\ThreadSync\ThreadSync\obj\Debug\ThreadSync.dll
+C:\Crestron\Source Control\3DayCertification Class\Day 2\ThreadSync\ThreadSync\obj\Debug\ThreadSync.pdb
+C:\Users\Training\Desktop\Toine S#Pro\Day 2\ThreadSync\ThreadSync\bin\ThreadSync.dll
+C:\Users\Training\Desktop\Toine S#Pro\Day 2\ThreadSync\ThreadSync\bin\ThreadSync.pdb
+C:\Users\Training\Desktop\Toine S#Pro\Day 2\ThreadSync\ThreadSync\bin\Crestron.SimplSharpPro.DeviceSupport.dll
+C:\Users\Training\Desktop\Toine S#Pro\Day 2\ThreadSync\ThreadSync\bin\SimplSharpCustomAttributesInterface.dll
+C:\Users\Training\Desktop\Toine S#Pro\Day 2\ThreadSync\ThreadSync\bin\SimplSharpHelperInterface.dll
+C:\Users\Training\Desktop\Toine S#Pro\Day 2\ThreadSync\ThreadSync\bin\SimplSharpPro.exe
+C:\Users\Training\Desktop\Toine S#Pro\Day 2\ThreadSync\ThreadSync\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Training\Desktop\Toine S#Pro\Day 2\ThreadSync\ThreadSync\obj\Debug\ThreadSync.dll
+C:\Users\Training\Desktop\Toine S#Pro\Day 2\ThreadSync\ThreadSync\obj\Debug\ThreadSync.pdb
+C:\Training_Classes\S#\S#March022016\Day2\E1_ThreadSync\ThreadSync\bin\ThreadSync.dll
+C:\Training_Classes\S#\S#March022016\Day2\E1_ThreadSync\ThreadSync\bin\ThreadSync.pdb
+C:\Training_Classes\S#\S#March022016\Day2\E1_ThreadSync\ThreadSync\bin\Crestron.SimplSharpPro.DeviceSupport.dll
+C:\Training_Classes\S#\S#March022016\Day2\E1_ThreadSync\ThreadSync\bin\SimplSharpCustomAttributesInterface.dll
+C:\Training_Classes\S#\S#March022016\Day2\E1_ThreadSync\ThreadSync\bin\SimplSharpHelperInterface.dll
+C:\Training_Classes\S#\S#March022016\Day2\E1_ThreadSync\ThreadSync\bin\SimplSharpPro.exe
+C:\Training_Classes\S#\S#March022016\Day2\E1_ThreadSync\ThreadSync\obj\Debug\ResolveAssemblyReference.cache
+C:\Training_Classes\S#\S#March022016\Day2\E1_ThreadSync\ThreadSync\obj\Debug\ThreadSync.dll
+C:\Training_Classes\S#\S#March022016\Day2\E1_ThreadSync\ThreadSync\obj\Debug\ThreadSync.pdb

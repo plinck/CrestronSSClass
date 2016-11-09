@@ -1,0 +1,22 @@
+C:\Users\MBackler\BitTorrent Sync\Sync\Programming\Simpl#Pro\SimplSharpDay1\SimplSharpDay1\bin\Debug\SimplSharpDay1.dll
+C:\Users\MBackler\BitTorrent Sync\Sync\Programming\Simpl#Pro\SimplSharpDay1\SimplSharpDay1\bin\Debug\SimplSharpDay1.pdb
+C:\Users\MBackler\BitTorrent Sync\Sync\Programming\Simpl#Pro\SimplSharpDay1\SimplSharpDay1\bin\Debug\Crestron.SimplSharpPro.DeviceSupport.dll
+C:\Users\MBackler\BitTorrent Sync\Sync\Programming\Simpl#Pro\SimplSharpDay1\SimplSharpDay1\bin\Debug\Crestron.SimplSharpPro.Keypads.dll
+C:\Users\MBackler\BitTorrent Sync\Sync\Programming\Simpl#Pro\SimplSharpDay1\SimplSharpDay1\bin\Debug\SimplSharpCustomAttributesInterface.dll
+C:\Users\MBackler\BitTorrent Sync\Sync\Programming\Simpl#Pro\SimplSharpDay1\SimplSharpDay1\bin\Debug\SimplSharpHelperInterface.dll
+C:\Users\MBackler\BitTorrent Sync\Sync\Programming\Simpl#Pro\SimplSharpDay1\SimplSharpDay1\bin\Debug\SimplSharpPro.exe
+C:\Users\MBackler\BitTorrent Sync\Sync\Programming\Simpl#Pro\SimplSharpDay1\SimplSharpDay1\bin\Debug\Crestron.SimplSharpPro.DM.dll
+C:\Users\MBackler\BitTorrent Sync\Sync\Programming\Simpl#Pro\SimplSharpDay1\SimplSharpDay1\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\MBackler\BitTorrent Sync\Sync\Programming\Simpl#Pro\SimplSharpDay1\SimplSharpDay1\obj\Debug\SimplSharpDay1.dll
+C:\Users\MBackler\BitTorrent Sync\Sync\Programming\Simpl#Pro\SimplSharpDay1\SimplSharpDay1\obj\Debug\SimplSharpDay1.pdb
+F:\Sync\Training Classes\SimplSharpCertification\Example Code\SimplSharpDay2_FileHandling\SimplSharpDay1\bin\Debug\SimplSharpDay1.dll
+F:\Sync\Training Classes\SimplSharpCertification\Example Code\SimplSharpDay2_FileHandling\SimplSharpDay1\bin\Debug\SimplSharpDay1.pdb
+F:\Sync\Training Classes\SimplSharpCertification\Example Code\SimplSharpDay2_FileHandling\SimplSharpDay1\bin\Debug\Crestron.SimplSharpPro.DeviceSupport.dll
+F:\Sync\Training Classes\SimplSharpCertification\Example Code\SimplSharpDay2_FileHandling\SimplSharpDay1\bin\Debug\Crestron.SimplSharpPro.Keypads.dll
+F:\Sync\Training Classes\SimplSharpCertification\Example Code\SimplSharpDay2_FileHandling\SimplSharpDay1\bin\Debug\SimplSharpCustomAttributesInterface.dll
+F:\Sync\Training Classes\SimplSharpCertification\Example Code\SimplSharpDay2_FileHandling\SimplSharpDay1\bin\Debug\SimplSharpHelperInterface.dll
+F:\Sync\Training Classes\SimplSharpCertification\Example Code\SimplSharpDay2_FileHandling\SimplSharpDay1\bin\Debug\SimplSharpPro.exe
+F:\Sync\Training Classes\SimplSharpCertification\Example Code\SimplSharpDay2_FileHandling\SimplSharpDay1\bin\Debug\Crestron.SimplSharpPro.DM.dll
+F:\Sync\Training Classes\SimplSharpCertification\Example Code\SimplSharpDay2_FileHandling\SimplSharpDay1\obj\Debug\ResolveAssemblyReference.cache
+F:\Sync\Training Classes\SimplSharpCertification\Example Code\SimplSharpDay2_FileHandling\SimplSharpDay1\obj\Debug\SimplSharpDay1.dll
+F:\Sync\Training Classes\SimplSharpCertification\Example Code\SimplSharpDay2_FileHandling\SimplSharpDay1\obj\Debug\SimplSharpDay1.pdb

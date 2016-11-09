@@ -1,0 +1,20 @@
+C:\Users\tleerentveld\Documents\Source Controlled\MasterClass 2015\MSS.02\ReflectionLib1\ReflectionLib1\bin\ReflectionLib1.dll
+C:\Users\tleerentveld\Documents\Source Controlled\MasterClass 2015\MSS.02\ReflectionLib1\ReflectionLib1\bin\ReflectionLib1.pdb
+C:\Users\tleerentveld\Documents\Source Controlled\MasterClass 2015\MSS.02\ReflectionLib1\ReflectionLib1\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\tleerentveld\Documents\Source Controlled\MasterClass 2015\MSS.02\ReflectionLib1\ReflectionLib1\obj\Debug\ReflectionLib1.dll
+C:\Users\tleerentveld\Documents\Source Controlled\MasterClass 2015\MSS.02\ReflectionLib1\ReflectionLib1\obj\Debug\ReflectionLib1.pdb
+C:\Training_Classes\S#\S#March022016\Day3\E8_ReflectionLib1\ReflectionLib1\bin\ReflectionLib1.dll
+C:\Training_Classes\S#\S#March022016\Day3\E8_ReflectionLib1\ReflectionLib1\bin\ReflectionLib1.pdb
+C:\Training_Classes\S#\S#March022016\Day3\E8_ReflectionLib1\ReflectionLib1\obj\Debug\ResolveAssemblyReference.cache
+C:\Training_Classes\S#\S#March022016\Day3\E8_ReflectionLib1\ReflectionLib1\obj\Debug\ReflectionLib1.dll
+C:\Training_Classes\S#\S#March022016\Day3\E8_ReflectionLib1\ReflectionLib1\obj\Debug\ReflectionLib1.pdb
+F:\Downloads\Simpl# Training\S#March022016 - July2016 snapshot\Day3\E8_ReflectionLib1\ReflectionLib1\bin\ReflectionLib1.dll
+F:\Downloads\Simpl# Training\S#March022016 - July2016 snapshot\Day3\E8_ReflectionLib1\ReflectionLib1\bin\ReflectionLib1.pdb
+F:\Downloads\Simpl# Training\S#March022016 - July2016 snapshot\Day3\E8_ReflectionLib1\ReflectionLib1\obj\Debug\ResolveAssemblyReference.cache
+F:\Downloads\Simpl# Training\S#March022016 - July2016 snapshot\Day3\E8_ReflectionLib1\ReflectionLib1\obj\Debug\ReflectionLib1.dll
+F:\Downloads\Simpl# Training\S#March022016 - July2016 snapshot\Day3\E8_ReflectionLib1\ReflectionLib1\obj\Debug\ReflectionLib1.pdb
+F:\Sync\Training Classes\SimplSharpCertification\Example Code\SimplSharpDay3_ReflectionLib1\ReflectionLib1\bin\ReflectionLib1.dll
+F:\Sync\Training Classes\SimplSharpCertification\Example Code\SimplSharpDay3_ReflectionLib1\ReflectionLib1\bin\ReflectionLib1.pdb
+F:\Sync\Training Classes\SimplSharpCertification\Example Code\SimplSharpDay3_ReflectionLib1\ReflectionLib1\obj\Debug\ResolveAssemblyReference.cache
+F:\Sync\Training Classes\SimplSharpCertification\Example Code\SimplSharpDay3_ReflectionLib1\ReflectionLib1\obj\Debug\ReflectionLib1.dll
+F:\Sync\Training Classes\SimplSharpCertification\Example Code\SimplSharpDay3_ReflectionLib1\ReflectionLib1\obj\Debug\ReflectionLib1.pdb

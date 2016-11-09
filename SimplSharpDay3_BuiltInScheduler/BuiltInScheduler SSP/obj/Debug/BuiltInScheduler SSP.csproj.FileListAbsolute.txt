@@ -1,0 +1,31 @@
+C:\Users\jonathan.brown\SSP Cert_Class_Programs\WorkingChanges\Day 2\BuiltInScheduler\BuiltInScheduler SSP\bin\Debug\BuiltInScheduler SSP.dll
+C:\Users\jonathan.brown\SSP Cert_Class_Programs\WorkingChanges\Day 2\BuiltInScheduler\BuiltInScheduler SSP\bin\Debug\BuiltInScheduler SSP.pdb
+C:\Users\jonathan.brown\SSP Cert_Class_Programs\WorkingChanges\Day 2\BuiltInScheduler\BuiltInScheduler SSP\bin\Debug\BuiltInScheduler.dll
+C:\Users\jonathan.brown\SSP Cert_Class_Programs\WorkingChanges\Day 2\BuiltInScheduler\BuiltInScheduler SSP\bin\Debug\Crestron.SimplSharpPro.DeviceSupport.dll
+C:\Users\jonathan.brown\SSP Cert_Class_Programs\WorkingChanges\Day 2\BuiltInScheduler\BuiltInScheduler SSP\bin\Debug\SimplSharpCustomAttributesInterface.dll
+C:\Users\jonathan.brown\SSP Cert_Class_Programs\WorkingChanges\Day 2\BuiltInScheduler\BuiltInScheduler SSP\bin\Debug\SimplSharpHelperInterface.dll
+C:\Users\jonathan.brown\SSP Cert_Class_Programs\WorkingChanges\Day 2\BuiltInScheduler\BuiltInScheduler SSP\bin\Debug\SimplSharpPro.exe
+C:\Users\jonathan.brown\SSP Cert_Class_Programs\WorkingChanges\Day 2\BuiltInScheduler\BuiltInScheduler SSP\bin\Debug\SimplSharpTimerEventInterface.dll
+C:\Users\jonathan.brown\SSP Cert_Class_Programs\WorkingChanges\Day 2\BuiltInScheduler\BuiltInScheduler SSP\bin\Debug\system.data.sqlclient.dll
+C:\Users\jonathan.brown\SSP Cert_Class_Programs\WorkingChanges\Day 2\BuiltInScheduler\BuiltInScheduler SSP\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\jonathan.brown\SSP Cert_Class_Programs\WorkingChanges\Day 2\BuiltInScheduler\BuiltInScheduler SSP\obj\Debug\BuiltInScheduler SSP.dll
+C:\Users\jonathan.brown\SSP Cert_Class_Programs\WorkingChanges\Day 2\BuiltInScheduler\BuiltInScheduler SSP\obj\Debug\BuiltInScheduler SSP.pdb
+C:\Users\MBackler\BitTorrent Sync\Sync\Training Classes\S#March022016\Day2\E6_BuiltInScheduler\BuiltInScheduler SSP\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\MBackler\BitTorrent Sync\Sync\Training Classes\S#March022016\Day2\E6_BuiltInScheduler\BuiltInScheduler SSP\obj\Debug\BuiltInScheduler SSP.dll
+C:\Users\MBackler\BitTorrent Sync\Sync\Training Classes\S#March022016\Day2\E6_BuiltInScheduler\BuiltInScheduler SSP\bin\Debug\BuiltInScheduler SSP.dll
+C:\Users\MBackler\BitTorrent Sync\Sync\Training Classes\S#March022016\Day2\E6_BuiltInScheduler\BuiltInScheduler SSP\bin\Debug\BuiltInScheduler SSP.pdb
+C:\Users\MBackler\BitTorrent Sync\Sync\Training Classes\S#March022016\Day2\E6_BuiltInScheduler\BuiltInScheduler SSP\bin\Debug\BuiltInScheduler.dll
+C:\Users\MBackler\BitTorrent Sync\Sync\Training Classes\S#March022016\Day2\E6_BuiltInScheduler\BuiltInScheduler SSP\bin\Debug\Crestron.SimplSharpPro.DeviceSupport.dll
+C:\Users\MBackler\BitTorrent Sync\Sync\Training Classes\S#March022016\Day2\E6_BuiltInScheduler\BuiltInScheduler SSP\bin\Debug\SimplSharpCustomAttributesInterface.dll
+C:\Users\MBackler\BitTorrent Sync\Sync\Training Classes\S#March022016\Day2\E6_BuiltInScheduler\BuiltInScheduler SSP\bin\Debug\SimplSharpHelperInterface.dll
+C:\Users\MBackler\BitTorrent Sync\Sync\Training Classes\S#March022016\Day2\E6_BuiltInScheduler\BuiltInScheduler SSP\bin\Debug\SimplSharpPro.exe
+C:\Users\MBackler\BitTorrent Sync\Sync\Training Classes\S#March022016\Day2\E6_BuiltInScheduler\BuiltInScheduler SSP\bin\Debug\SimplSharpTimerEventInterface.dll
+C:\Users\MBackler\BitTorrent Sync\Sync\Training Classes\S#March022016\Day2\E6_BuiltInScheduler\BuiltInScheduler SSP\bin\Debug\system.data.sqlclient.dll
+C:\Users\MBackler\BitTorrent Sync\Sync\Training Classes\S#March022016\Day2\E6_BuiltInScheduler\BuiltInScheduler SSP\obj\Debug\BuiltInScheduler SSP.pdb
+F:\Downloads\Simpl# Training\S#July262016\S#July262016\E6_BuiltInScheduler\BuiltInScheduler SSP\obj\Debug\ResolveAssemblyReference.cache
+F:\Downloads\Simpl# Training\S#July262016\S#July262016\E6_BuiltInScheduler\BuiltInScheduler SSP\obj\Debug\BuiltInScheduler SSP.dll
+F:\Downloads\Simpl# Training\S#July262016\S#July262016\E6_BuiltInScheduler\BuiltInScheduler SSP\obj\Debug\BuiltInScheduler SSP.pdb
+F:\Downloads\Simpl# Training\S#July262016\S#July262016\E6_BuiltInScheduler\BuiltInScheduler SSP\bin\Debug\BuiltInScheduler SSP.dll
+F:\Downloads\Simpl# Training\S#July262016\S#July262016\E6_BuiltInScheduler\BuiltInScheduler SSP\bin\Debug\BuiltInScheduler SSP.pdb
+F:\Downloads\Simpl# Training\S#July262016\S#July262016\E6_BuiltInScheduler\BuiltInScheduler SSP\bin\Debug\BuiltInScheduler.dll
+F:\Downloads\Simpl# Training\S#July262016\S#July262016\E6_BuiltInScheduler\BuiltInScheduler SSP\bin\Debug\system.data.sqlclient.dll

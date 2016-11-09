@@ -1,0 +1,7 @@
+C:\Users\MBackler\BitTorrent Sync\Sync\Programming\Simpl#Pro\SSHClient\SSHClient\bin\Debug\SSHClient.dll
+C:\Users\MBackler\BitTorrent Sync\Sync\Programming\Simpl#Pro\SSHClient\SSHClient\bin\Debug\SSHClient.pdb
+C:\Users\MBackler\BitTorrent Sync\Sync\Programming\Simpl#Pro\SSHClient\SSHClient\bin\Debug\SimplSharpCustomAttributesInterface.dll
+C:\Users\MBackler\BitTorrent Sync\Sync\Programming\Simpl#Pro\SSHClient\SSHClient\bin\Debug\SimplSharpHelperInterface.dll
+C:\Users\MBackler\BitTorrent Sync\Sync\Programming\Simpl#Pro\SSHClient\SSHClient\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\MBackler\BitTorrent Sync\Sync\Programming\Simpl#Pro\SSHClient\SSHClient\obj\Debug\SSHClient.dll
+C:\Users\MBackler\BitTorrent Sync\Sync\Programming\Simpl#Pro\SSHClient\SSHClient\obj\Debug\SSHClient.pdb

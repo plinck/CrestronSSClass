@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BuiltInScheduler", "BuiltInScheduler\BuiltInScheduler.csproj", "{8FA02719-3626-4E1A-A05A-083D7E186D0F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BuiltInScheduler SSP", "BuiltInScheduler SSP\BuiltInScheduler SSP.csproj", "{0534DFE5-C151-40B4-A938-396532AD2967}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8FA02719-3626-4E1A-A05A-083D7E186D0F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8FA02719-3626-4E1A-A05A-083D7E186D0F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8FA02719-3626-4E1A-A05A-083D7E186D0F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8FA02719-3626-4E1A-A05A-083D7E186D0F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0534DFE5-C151-40B4-A938-396532AD2967}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0534DFE5-C151-40B4-A938-396532AD2967}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0534DFE5-C151-40B4-A938-396532AD2967}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0534DFE5-C151-40B4-A938-396532AD2967}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

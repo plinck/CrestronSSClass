@@ -1,0 +1,17 @@
+C:\Users\MBackler\BitTorrent Sync\Sync\Programming\Simpl#Pro\SimplSharpDay1\FileControls\bin\Debug\FileControls.dll
+C:\Users\MBackler\BitTorrent Sync\Sync\Programming\Simpl#Pro\SimplSharpDay1\FileControls\bin\Debug\FileControls.pdb
+C:\Users\MBackler\BitTorrent Sync\Sync\Programming\Simpl#Pro\SimplSharpDay1\FileControls\bin\Debug\SimplSharpCustomAttributesInterface.dll
+C:\Users\MBackler\BitTorrent Sync\Sync\Programming\Simpl#Pro\SimplSharpDay1\FileControls\bin\Debug\SimplSharpHelperInterface.dll
+C:\Users\MBackler\BitTorrent Sync\Sync\Programming\Simpl#Pro\SimplSharpDay1\FileControls\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\MBackler\BitTorrent Sync\Sync\Programming\Simpl#Pro\SimplSharpDay1\FileControls\obj\Debug\FileControls.dll
+C:\Users\MBackler\BitTorrent Sync\Sync\Programming\Simpl#Pro\SimplSharpDay1\FileControls\obj\Debug\FileControls.pdb
+F:\Sync\Training Classes\SimplSharpCertification\Example Code\SimplSharpDay2_FileHandling\FileControls\bin\Debug\FileControls.dll
+F:\Sync\Training Classes\SimplSharpCertification\Example Code\SimplSharpDay2_FileHandling\FileControls\bin\Debug\FileControls.pdb
+F:\Sync\Training Classes\SimplSharpCertification\Example Code\SimplSharpDay2_FileHandling\FileControls\obj\Debug\ResolveAssemblyReference.cache
+F:\Sync\Training Classes\SimplSharpCertification\Example Code\SimplSharpDay2_FileHandling\FileControls\obj\Debug\FileControls.dll
+F:\Sync\Training Classes\SimplSharpCertification\Example Code\SimplSharpDay2_FileHandling\FileControls\obj\Debug\FileControls.pdb
+C:\Users\MBackler\BitTorrent Sync\Sync\Training Classes\SimplSharpCertification\Example Code\SimplSharpDay2_FileHandling\FileControls\bin\Debug\FileControls.dll
+C:\Users\MBackler\BitTorrent Sync\Sync\Training Classes\SimplSharpCertification\Example Code\SimplSharpDay2_FileHandling\FileControls\bin\Debug\FileControls.pdb
+C:\Users\MBackler\BitTorrent Sync\Sync\Training Classes\SimplSharpCertification\Example Code\SimplSharpDay2_FileHandling\FileControls\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\MBackler\BitTorrent Sync\Sync\Training Classes\SimplSharpCertification\Example Code\SimplSharpDay2_FileHandling\FileControls\obj\Debug\FileControls.dll
+C:\Users\MBackler\BitTorrent Sync\Sync\Training Classes\SimplSharpCertification\Example Code\SimplSharpDay2_FileHandling\FileControls\obj\Debug\FileControls.pdb

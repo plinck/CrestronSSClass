@@ -1,0 +1,45 @@
+C:\Users\tleerentveld\Documents\Source Controlled\MasterClass 2015\MSS.02\Reflection\Reflection\bin\Reflection.dll
+C:\Users\tleerentveld\Documents\Source Controlled\MasterClass 2015\MSS.02\Reflection\Reflection\bin\Reflection.pdb
+C:\Users\tleerentveld\Documents\Source Controlled\MasterClass 2015\MSS.02\Reflection\Reflection\bin\Crestron.SimplSharpPro.DeviceSupport.dll
+C:\Users\tleerentveld\Documents\Source Controlled\MasterClass 2015\MSS.02\Reflection\Reflection\bin\Crestron.SimplSharpPro.UI.dll
+C:\Users\tleerentveld\Documents\Source Controlled\MasterClass 2015\MSS.02\Reflection\Reflection\bin\SimplSharpCustomAttributesInterface.dll
+C:\Users\tleerentveld\Documents\Source Controlled\MasterClass 2015\MSS.02\Reflection\Reflection\bin\SimplSharpHelperInterface.dll
+C:\Users\tleerentveld\Documents\Source Controlled\MasterClass 2015\MSS.02\Reflection\Reflection\bin\SimplSharpPro.exe
+C:\Users\tleerentveld\Documents\Source Controlled\MasterClass 2015\MSS.02\Reflection\Reflection\bin\SimplSharpReflectionInterface.dll
+C:\Users\tleerentveld\Documents\Source Controlled\MasterClass 2015\MSS.02\Reflection\Reflection\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\tleerentveld\Documents\Source Controlled\MasterClass 2015\MSS.02\Reflection\Reflection\obj\Debug\Reflection.dll
+C:\Users\tleerentveld\Documents\Source Controlled\MasterClass 2015\MSS.02\Reflection\Reflection\obj\Debug\Reflection.pdb
+C:\Crestron\Source Control\2015 Masters Class\MSS.02\Reflection\Reflection\bin\Reflection.dll
+C:\Crestron\Source Control\2015 Masters Class\MSS.02\Reflection\Reflection\bin\Reflection.pdb
+C:\Crestron\Source Control\2015 Masters Class\MSS.02\Reflection\Reflection\bin\Crestron.SimplSharpPro.DeviceSupport.dll
+C:\Crestron\Source Control\2015 Masters Class\MSS.02\Reflection\Reflection\bin\Crestron.SimplSharpPro.UI.dll
+C:\Crestron\Source Control\2015 Masters Class\MSS.02\Reflection\Reflection\bin\SimplSharpCustomAttributesInterface.dll
+C:\Crestron\Source Control\2015 Masters Class\MSS.02\Reflection\Reflection\bin\SimplSharpHelperInterface.dll
+C:\Crestron\Source Control\2015 Masters Class\MSS.02\Reflection\Reflection\bin\SimplSharpPro.exe
+C:\Crestron\Source Control\2015 Masters Class\MSS.02\Reflection\Reflection\bin\SimplSharpReflectionInterface.dll
+C:\Crestron\Source Control\2015 Masters Class\MSS.02\Reflection\Reflection\obj\Debug\ResolveAssemblyReference.cache
+C:\Crestron\Source Control\2015 Masters Class\MSS.02\Reflection\Reflection\obj\Debug\Reflection.dll
+C:\Crestron\Source Control\2015 Masters Class\MSS.02\Reflection\Reflection\obj\Debug\Reflection.pdb
+C:\Training_Classes\S#\S#March022016\Day3\E7_Reflection\Reflection\bin\Reflection.dll
+C:\Training_Classes\S#\S#March022016\Day3\E7_Reflection\Reflection\bin\Reflection.pdb
+C:\Training_Classes\S#\S#March022016\Day3\E7_Reflection\Reflection\bin\Crestron.SimplSharpPro.DeviceSupport.dll
+C:\Training_Classes\S#\S#March022016\Day3\E7_Reflection\Reflection\bin\Crestron.SimplSharpPro.UI.dll
+C:\Training_Classes\S#\S#March022016\Day3\E7_Reflection\Reflection\bin\SimplSharpCustomAttributesInterface.dll
+C:\Training_Classes\S#\S#March022016\Day3\E7_Reflection\Reflection\bin\SimplSharpHelperInterface.dll
+C:\Training_Classes\S#\S#March022016\Day3\E7_Reflection\Reflection\bin\SimplSharpPro.exe
+C:\Training_Classes\S#\S#March022016\Day3\E7_Reflection\Reflection\bin\SimplSharpReflectionInterface.dll
+C:\Training_Classes\S#\S#March022016\Day3\E7_Reflection\Reflection\obj\Debug\ResolveAssemblyReference.cache
+C:\Training_Classes\S#\S#March022016\Day3\E7_Reflection\Reflection\obj\Debug\Reflection.dll
+C:\Training_Classes\S#\S#March022016\Day3\E7_Reflection\Reflection\obj\Debug\Reflection.pdb
+F:\Downloads\Simpl# Training\S#March022016 - July2016 snapshot\Day3\E7_Reflection\Reflection\bin\Reflection.dll
+F:\Downloads\Simpl# Training\S#March022016 - July2016 snapshot\Day3\E7_Reflection\Reflection\bin\Reflection.pdb
+F:\Downloads\Simpl# Training\S#March022016 - July2016 snapshot\Day3\E7_Reflection\Reflection\bin\Crestron.SimplSharpPro.DM.dll
+F:\Downloads\Simpl# Training\S#March022016 - July2016 snapshot\Day3\E7_Reflection\Reflection\obj\Debug\ResolveAssemblyReference.cache
+F:\Downloads\Simpl# Training\S#March022016 - July2016 snapshot\Day3\E7_Reflection\Reflection\obj\Debug\Reflection.dll
+F:\Downloads\Simpl# Training\S#March022016 - July2016 snapshot\Day3\E7_Reflection\Reflection\obj\Debug\Reflection.pdb
+F:\Sync\Training Classes\SimplSharpCertification\Example Code\SimplSharpDay3_Reflection\Reflection\bin\Reflection.dll
+F:\Sync\Training Classes\SimplSharpCertification\Example Code\SimplSharpDay3_Reflection\Reflection\bin\Reflection.pdb
+F:\Sync\Training Classes\SimplSharpCertification\Example Code\SimplSharpDay3_Reflection\Reflection\bin\Crestron.SimplSharpPro.DM.dll
+F:\Sync\Training Classes\SimplSharpCertification\Example Code\SimplSharpDay3_Reflection\Reflection\obj\Debug\ResolveAssemblyReference.cache
+F:\Sync\Training Classes\SimplSharpCertification\Example Code\SimplSharpDay3_Reflection\Reflection\obj\Debug\Reflection.dll
+F:\Sync\Training Classes\SimplSharpCertification\Example Code\SimplSharpDay3_Reflection\Reflection\obj\Debug\Reflection.pdb

@@ -1,0 +1,26 @@
+F:\Sync\Training Classes\SimplSharpCertification\Example Code\SimplSharpDay1_IR_Versiport_ComPort\SimplSharpDay3\bin\Debug\SimplSharpDay1.dll
+F:\Sync\Training Classes\SimplSharpCertification\Example Code\SimplSharpDay1_IR_Versiport_ComPort\SimplSharpDay3\bin\Debug\SimplSharpDay1.pdb
+F:\Sync\Training Classes\SimplSharpCertification\Example Code\SimplSharpDay1_IR_Versiport_ComPort\SimplSharpDay3\bin\Debug\Crestron.SimplSharpPro.DeviceSupport.dll
+F:\Sync\Training Classes\SimplSharpCertification\Example Code\SimplSharpDay1_IR_Versiport_ComPort\SimplSharpDay3\bin\Debug\Crestron.SimplSharpPro.EthernetCommunications.dll
+F:\Sync\Training Classes\SimplSharpCertification\Example Code\SimplSharpDay1_IR_Versiport_ComPort\SimplSharpDay3\bin\Debug\Crestron.SimplSharpPro.Keypads.dll
+F:\Sync\Training Classes\SimplSharpCertification\Example Code\SimplSharpDay1_IR_Versiport_ComPort\SimplSharpDay3\bin\Debug\Crestron.SimplSharpPro.UI.dll
+F:\Sync\Training Classes\SimplSharpCertification\Example Code\SimplSharpDay1_IR_Versiport_ComPort\SimplSharpDay3\bin\Debug\SimplSharpCustomAttributesInterface.dll
+F:\Sync\Training Classes\SimplSharpCertification\Example Code\SimplSharpDay1_IR_Versiport_ComPort\SimplSharpDay3\bin\Debug\SimplSharpHelperInterface.dll
+F:\Sync\Training Classes\SimplSharpCertification\Example Code\SimplSharpDay1_IR_Versiport_ComPort\SimplSharpDay3\bin\Debug\SimplSharpPro.exe
+F:\Sync\Training Classes\SimplSharpCertification\Example Code\SimplSharpDay1_IR_Versiport_ComPort\SimplSharpDay3\bin\Debug\Crestron.SimplSharpPro.DM.dll
+F:\Sync\Training Classes\SimplSharpCertification\Example Code\SimplSharpDay1_IR_Versiport_ComPort\SimplSharpDay3\obj\Debug\ResolveAssemblyReference.cache
+F:\Sync\Training Classes\SimplSharpCertification\Example Code\SimplSharpDay1_IR_Versiport_ComPort\SimplSharpDay3\obj\Debug\SimplSharpDay1.dll
+F:\Sync\Training Classes\SimplSharpCertification\Example Code\SimplSharpDay1_IR_Versiport_ComPort\SimplSharpDay3\obj\Debug\SimplSharpDay1.pdb
+D:\CTI\2016 New Curriculum\SIMPL#-SIMPL#Pro\August32016\SimplSharpCertification\Example Code\SimplSharpDay1_IR_Versiport_ComPort\SimplSharpDay3\bin\Debug\SimplSharpDay1.dll
+D:\CTI\2016 New Curriculum\SIMPL#-SIMPL#Pro\August32016\SimplSharpCertification\Example Code\SimplSharpDay1_IR_Versiport_ComPort\SimplSharpDay3\bin\Debug\SimplSharpDay1.pdb
+D:\CTI\2016 New Curriculum\SIMPL#-SIMPL#Pro\August32016\SimplSharpCertification\Example Code\SimplSharpDay1_IR_Versiport_ComPort\SimplSharpDay3\bin\Debug\Crestron.SimplSharpPro.DeviceSupport.dll
+D:\CTI\2016 New Curriculum\SIMPL#-SIMPL#Pro\August32016\SimplSharpCertification\Example Code\SimplSharpDay1_IR_Versiport_ComPort\SimplSharpDay3\bin\Debug\Crestron.SimplSharpPro.EthernetCommunications.dll
+D:\CTI\2016 New Curriculum\SIMPL#-SIMPL#Pro\August32016\SimplSharpCertification\Example Code\SimplSharpDay1_IR_Versiport_ComPort\SimplSharpDay3\bin\Debug\Crestron.SimplSharpPro.Keypads.dll
+D:\CTI\2016 New Curriculum\SIMPL#-SIMPL#Pro\August32016\SimplSharpCertification\Example Code\SimplSharpDay1_IR_Versiport_ComPort\SimplSharpDay3\bin\Debug\Crestron.SimplSharpPro.UI.dll
+D:\CTI\2016 New Curriculum\SIMPL#-SIMPL#Pro\August32016\SimplSharpCertification\Example Code\SimplSharpDay1_IR_Versiport_ComPort\SimplSharpDay3\bin\Debug\SimplSharpCustomAttributesInterface.dll
+D:\CTI\2016 New Curriculum\SIMPL#-SIMPL#Pro\August32016\SimplSharpCertification\Example Code\SimplSharpDay1_IR_Versiport_ComPort\SimplSharpDay3\bin\Debug\SimplSharpHelperInterface.dll
+D:\CTI\2016 New Curriculum\SIMPL#-SIMPL#Pro\August32016\SimplSharpCertification\Example Code\SimplSharpDay1_IR_Versiport_ComPort\SimplSharpDay3\bin\Debug\SimplSharpPro.exe
+D:\CTI\2016 New Curriculum\SIMPL#-SIMPL#Pro\August32016\SimplSharpCertification\Example Code\SimplSharpDay1_IR_Versiport_ComPort\SimplSharpDay3\bin\Debug\Crestron.SimplSharpPro.DM.dll
+D:\CTI\2016 New Curriculum\SIMPL#-SIMPL#Pro\August32016\SimplSharpCertification\Example Code\SimplSharpDay1_IR_Versiport_ComPort\SimplSharpDay3\obj\Debug\ResolveAssemblyReference.cache
+D:\CTI\2016 New Curriculum\SIMPL#-SIMPL#Pro\August32016\SimplSharpCertification\Example Code\SimplSharpDay1_IR_Versiport_ComPort\SimplSharpDay3\obj\Debug\SimplSharpDay1.dll
+D:\CTI\2016 New Curriculum\SIMPL#-SIMPL#Pro\August32016\SimplSharpCertification\Example Code\SimplSharpDay1_IR_Versiport_ComPort\SimplSharpDay3\obj\Debug\SimplSharpDay1.pdb

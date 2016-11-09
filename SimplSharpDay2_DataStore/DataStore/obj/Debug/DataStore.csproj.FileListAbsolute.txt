@@ -1,0 +1,14 @@
+C:\Training_Classes\S#\S#July262016\DataStore\DataStore\bin\Debug\DataStore.dll
+C:\Training_Classes\S#\S#July262016\DataStore\DataStore\bin\Debug\DataStore.pdb
+C:\Training_Classes\S#\S#July262016\DataStore\DataStore\bin\Debug\Crestron.SimplSharpPro.DeviceSupport.dll
+C:\Training_Classes\S#\S#July262016\DataStore\DataStore\bin\Debug\SimplSharpCustomAttributesInterface.dll
+C:\Training_Classes\S#\S#July262016\DataStore\DataStore\bin\Debug\SimplSharpHelperInterface.dll
+C:\Training_Classes\S#\S#July262016\DataStore\DataStore\bin\Debug\SimplSharpPro.exe
+C:\Training_Classes\S#\S#July262016\DataStore\DataStore\obj\Debug\ResolveAssemblyReference.cache
+C:\Training_Classes\S#\S#July262016\DataStore\DataStore\obj\Debug\DataStore.dll
+C:\Training_Classes\S#\S#July262016\DataStore\DataStore\obj\Debug\DataStore.pdb
+D:\CTI\2016 New Curriculum\SIMPL#-SIMPL#Pro\August32016\SimplSharpCertification\Example Code\SimplSharpDay2_DataStore\DataStore\bin\Debug\DataStore.dll
+D:\CTI\2016 New Curriculum\SIMPL#-SIMPL#Pro\August32016\SimplSharpCertification\Example Code\SimplSharpDay2_DataStore\DataStore\bin\Debug\DataStore.pdb
+D:\CTI\2016 New Curriculum\SIMPL#-SIMPL#Pro\August32016\SimplSharpCertification\Example Code\SimplSharpDay2_DataStore\DataStore\obj\Debug\ResolveAssemblyReference.cache
+D:\CTI\2016 New Curriculum\SIMPL#-SIMPL#Pro\August32016\SimplSharpCertification\Example Code\SimplSharpDay2_DataStore\DataStore\obj\Debug\DataStore.dll
+D:\CTI\2016 New Curriculum\SIMPL#-SIMPL#Pro\August32016\SimplSharpCertification\Example Code\SimplSharpDay2_DataStore\DataStore\obj\Debug\DataStore.pdb
